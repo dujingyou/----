@@ -6,15 +6,8 @@
 
 一、引用库安装：
 
- from PIL import Image
- from os import path
- import numpy as np
- import matplotlib.pyplot as plt
- from wordcloud import WordCloud,STOPWORDS,ImageColorGenerator
- import jieba
- from scipy.misc import imread
-
-
+  见代码
+  
   第一步  修改读取文本
  
   第二步  修改图片背景
