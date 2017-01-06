@@ -1,6 +1,8 @@
- Image 模块提供了一个同名类（Image），也提供了一些工厂函数，包括从文件中载入图片和创建新图片
- Matplotlib是一个Python的图形框架，类似于MATLAB和R语言
- Matplotlib的pyplot子库提供了和matlab类似的绘图API，方便用户快速绘制2D图表
+Image 模块提供了一个同名类（Image），也提供了一些工厂函数，包括从文件中载入图片和创建新图片
+
+Matplotlib是一个Python的图形框架，类似于MATLAB和R语言
+ 
+Matplotlib的pyplot子库提供了和matlab类似的绘图API，方便用户快速绘制2D图表
 
 
 
